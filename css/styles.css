@@ -1,0 +1,67 @@
+
+body {
+  
+  
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+#fotos{
+  margin-top:50px;
+  
+}
+#campos1{
+
+padding-top:60px;
+}
+#foto{
+  
+  margin-top:100px;
+}
+#boton_enviar_texto{
+  margin-bottom:100px;
+  margin-top:40px;
+  
+}
+
+
+#boton_enviar_imagen{
+  
+  margin-top:60px;
+  
+}
+
+#fotos2{
+  margin-top:50px;
+  
+}
+#foto2{
+  
+  margin-top:100px;
+}
+
+#boton_enviar_imagen2{
+  
+  margin-top:60px;
+  margin-bottom:60px;
+  
+}
+
+#fotos3{
+  margin-top:50px;
+  
+}
+#foto3{
+  
+  margin-top:100px;
+}
+
+
+#boton_enviar_imagen3{
+  
+  margin-top:60px;
+  margin-bottom:60px;
+  
+}
